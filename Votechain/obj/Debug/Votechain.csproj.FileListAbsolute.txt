@@ -1,0 +1,8 @@
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\obj\Debug\Votechain.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\obj\Debug\Votechain.Properties.Resources.resources
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\obj\Debug\Votechain.csproj.GenerateResource.cache
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\obj\Debug\Votechain.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\bin\Debug\Votechain.exe
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\bin\Debug\Votechain.pdb
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\obj\Debug\Votechain.exe
+C:\Users\Tim\Documents\GitHub\CS-8980-project\HowToBlockchain\Votechain\obj\Debug\Votechain.pdb
